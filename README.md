@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+HEY :):, I"m Kayes Ahammed Biplopb. 
+Currently there ain't that much work i've done to show. 
+Soon going to make it work and upload them here. 
+Till then BYE.
+CYA!!!
 <!--
 **KayesBiplob/KayesBiplob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
