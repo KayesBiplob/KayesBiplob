@@ -5,9 +5,6 @@ Soon going to make it work and upload them here.
 Till then BYE.
 CYA!!!
 
-
-anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats
 <!--
 **KayesBiplob/KayesBiplob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
